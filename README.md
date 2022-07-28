@@ -5,10 +5,11 @@ In computer science, rate-monotonic scheduling (RMS) is a priority assignment al
 A sample input:
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Task	  |Execution time | Period |
+| ------------- | ------------- | -------------|
+| Task 1  | 2  | 8|
+| Task 1  | 1  | 6|
+|Task 1   |  3| 12|            |
 
 
 Task	    Execution time	  Period
