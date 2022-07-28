@@ -12,11 +12,6 @@ A sample input:
 |Task 1   |  3| 12|            |
 
 
-Task	    Execution time	  Period
-Task 1	     2	              8
-Task 2	     1	              6
-Task 2	     3	              12
-
 
  
 
